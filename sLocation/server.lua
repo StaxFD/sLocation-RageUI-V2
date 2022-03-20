@@ -15,3 +15,6 @@ AddEventHandler("Stax:Buy", function(price,label,veh,vehspawn,veheading,vehplaqu
             TriggerClientEvent('esx:showNotification', _source, "~r~Vous n'avez pas assez d'argent")
         end
 end)
+
+
+print("Created by Staxx \\ discord.gg/HSCcZGHxsD //")
