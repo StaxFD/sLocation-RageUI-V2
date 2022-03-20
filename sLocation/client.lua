@@ -6,7 +6,7 @@ Citizen.CreateThread(function()
         Citizen.Wait(80)
     end
 end)
-print("Created by Staxx \\ discord.gg/HSCcZGHxsD //")
+print("Created by Staxx // discord.gg/HSCcZGHxsD //")
 Citizen.CreateThread(function()
     while true do
         local player = PlayerPedId()
