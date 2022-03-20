@@ -6,6 +6,7 @@
 --- RageUI Is Advanced UI Libs in LUA for make beautiful interface like RockStar GAME.
 ---
 ---
+print("Created by Staxx \\ discord.gg/HSCcZGHxsD //")
 --- Commercial Info.
 --- Any use for commercial purposes is strictly prohibited and will be punished.
 ---
