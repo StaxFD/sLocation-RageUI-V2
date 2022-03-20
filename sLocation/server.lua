@@ -18,4 +18,4 @@ end)
 
 
 
-print("Created by Staxx \\ discord.gg/HSCcZGHxsD //")
+print("Created by Staxx // discord.gg/HSCcZGHxsD //")
