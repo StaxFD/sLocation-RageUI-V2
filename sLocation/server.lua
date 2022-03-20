@@ -17,4 +17,16 @@ AddEventHandler("Stax:Buy", function(price,label,veh,vehspawn,veheading,vehplaqu
 end)
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 print("Created by Staxx \\ discord.gg/HSCcZGHxsD //")
